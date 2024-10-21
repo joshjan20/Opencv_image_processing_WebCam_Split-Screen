@@ -1,7 +1,3 @@
-Here is a `README.md` for the code that captures video from your webcam and processes it to display a custom split-screen layout with rotated and resized frames.
-
-### `README.md`
-
 ```markdown
 # Webcam Video Split-Screen with OpenCV
 
@@ -93,9 +89,3 @@ cv2.destroyAllWindows()
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Steps to use this:
-
-1. **Save the `README.md`** file in the root of your project directory.
-2. **Run the script** as described in the `README`.
-3. This file gives a clear and concise explanation of the project and how to use it, which is essential when sharing it on GitHub or other platforms.
